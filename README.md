@@ -1,16 +1,16 @@
 
-# Javascript
+# JavaScript
 
 
 ## 🔖&nbsp; Sobre
 
-Lista de exercícios com resolução realizada durante o curso de [JavaScript](https://www.udemy.com)
+Lista de exercícios com resolução realizada durante o curso de [JavaScript](https://www.udemy.com).
 
 ---
 
 ## 🚀 Tecnologia utilizada
 
-O projeto foi desenvolvido utilizando a seguinte tecnologia
+O projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
